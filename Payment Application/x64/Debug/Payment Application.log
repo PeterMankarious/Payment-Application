@@ -1,0 +1,19 @@
+﻿  app.c
+D:\GUC\Courses\Embedded Systems Professional Track Udacity\6 C Project\Payment Application\Payment Application\Application\app.c(140,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  card.c
+D:\GUC\Courses\Embedded Systems Professional Track Udacity\6 C Project\Payment Application\Payment Application\Card\card.c(37,8): warning C4013: 'isalpha' undefined; assuming extern returning int
+D:\GUC\Courses\Embedded Systems Professional Track Udacity\6 C Project\Payment Application\Payment Application\Card\card.c(24,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GUC\Courses\Embedded Systems Professional Track Udacity\6 C Project\Payment Application\Payment Application\Card\card.c(72,7): warning C4013: 'isdigit' undefined; assuming extern returning int
+D:\GUC\Courses\Embedded Systems Professional Track Udacity\6 C Project\Payment Application\Payment Application\Card\card.c(61,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GUC\Courses\Embedded Systems Professional Track Udacity\6 C Project\Payment Application\Payment Application\Card\card.c(118,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GUC\Courses\Embedded Systems Professional Track Udacity\6 C Project\Payment Application\Payment Application\Card\card.c(141,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  server.c
+  terminal.c
+D:\GUC\Courses\Embedded Systems Professional Track Udacity\6 C Project\Payment Application\Payment Application\Terminal\terminal.c(31,31): warning C4047: 'function': 'char *const ' differs in levels of indirection from 'uint8_t (*)[11]'
+D:\GUC\Courses\Embedded Systems Professional Track Udacity\6 C Project\Payment Application\Payment Application\Terminal\terminal.c(31,11): warning C4024: 'sprintf': different types for formal and actual parameter 1
+D:\GUC\Courses\Embedded Systems Professional Track Udacity\6 C Project\Payment Application\Payment Application\Terminal\terminal.c(45,7): warning C4013: 'isdigit' undefined; assuming extern returning int
+D:\GUC\Courses\Embedded Systems Professional Track Udacity\6 C Project\Payment Application\Payment Application\Terminal\terminal.c(35,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GUC\Courses\Embedded Systems Professional Track Udacity\6 C Project\Payment Application\Payment Application\Terminal\terminal.c(146,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.c
+  Generating Code...
+  Payment Application.vcxproj -> D:\GUC\Courses\Embedded Systems Professional Track Udacity\6 C Project\Payment Application\x64\Debug\Payment Application.exe
